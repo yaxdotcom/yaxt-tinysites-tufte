@@ -1,0 +1,13 @@
+yax_version: 1.0.0
+template_id: yaxt-tinysites-tufte
+template_title: 'Tufte'
+category: tiny_sites
+description: 'One page site with styling from the Tufte CSS project.'
+template_img: https://assets.yax.com/images/templates/yaxt-tinysites-tufte.png
+author: 'the Yax team'
+author_img: https://assets.yax.com/images/icons/yax.jpg
+files:
+- index.html
+- README.md
+- render.yaml
+- assets/styles/site.css
